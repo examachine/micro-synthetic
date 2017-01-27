@@ -1,0 +1,4 @@
+#load "heapSort.cmo"
+open HeapSort
+
+#trace generate
